@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# 编辑器 / IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 环境与密钥
+.env
+.env.*
+.known_hosts
+
+# 日志与临时文件
+*.log
+tmp/
+temp/
+
+# 依赖
+node_modules/
+__pycache__/
+*.py[cod]
+venv/
+.venv/
